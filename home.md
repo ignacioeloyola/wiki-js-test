@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-11-30T16:08:30.367Z
+date: 2022-11-30T16:29:15.213Z
 tags: meta
 editor: markdown
 dateCreated: 2022-11-30T16:08:30.367Z
@@ -14,7 +14,7 @@ dateCreated: 2022-11-30T16:08:30.367Z
 
 # 🔥 Hot Articles 🔥
 
-[Learning some Android](https://www.notion.so/Learning-some-Android-bd9e439344b24f0a98a220ff84826271)
+[Learning some Android](/home/learn-android)
 
 
 ## 🧰 Resources
